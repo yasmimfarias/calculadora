@@ -12,14 +12,6 @@ Este projeto é uma aplicação básica que permite realizar operações matemá
 - Navegador moderno (Chrome, Firefox, Safari, etc.)
 - Nenhuma biblioteca externa é necessária
 
-🧐Como Usar ?
-Clone o repositório ou faça o download do código-fonte.
-- git clone https://github.com/yasmimfarias/calculadora/assets.git
-- cd calculadora-simples-js
-
-Abra o arquivo `index.html` em um navegador.
-Use a interface para inserir dois números e escolher a operação desejada.
-
 💡Exemplo de Uso
 - Abra o navegador e carregue o arquivo index.html.
 - Insira o primeiro número no campo correspondente.
