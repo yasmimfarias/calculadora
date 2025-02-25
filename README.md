@@ -10,7 +10,7 @@ Este projeto é uma aplicação básica que permite realizar operações matemá
 
 🔎Requisitos 
 - Navegador moderno (Chrome, Firefox, Safari, etc.)
-- Nenhuma biblioteca externa é necessária
+- Nenhuma biblioteca externa é necessária.
 
 💡Exemplo de Uso
 - Abra o navegador e carregue o arquivo index.html.
