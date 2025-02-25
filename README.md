@@ -14,7 +14,7 @@ Este projeto é uma aplicação básica que permite realizar operações matemá
 
 🧐Como Usar ?
 Clone o repositório ou faça o download do código-fonte.
-- git clone https://github.com/yasmimfarias/calculadora-simples-js.git
+- git clone https://github.com/yasmimfarias/calculadora/assets.git
 - cd calculadora-simples-js
 
 Abra o arquivo `index.html` em um navegador.
