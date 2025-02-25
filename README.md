@@ -1,6 +1,4 @@
-# calculadora
-
-Calculadora Simples em JavaScript.
+#   Calculadora Simples em JavaScript
 
 Este projeto é uma aplicação básica que permite realizar operações matemáticas simples, como adição, subtração, multiplicação e divisão.
 
