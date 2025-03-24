@@ -18,3 +18,8 @@ Este projeto é uma aplicação básica que permite realizar operações matemá
 - Insira o segundo número.
 - Selecione a operação desejada (adição, subtração, multiplicação ou divisão).
 - Clique no botão "=" para ver o resultado.
+
+💻Tecnologias Usadas
+- HTML.
+- CSS.
+- JavaScript.
